@@ -22,20 +22,10 @@ Ce dépôt GitHub regroupe **les outils techniques officiels** liés au projet I
 | Projet | Description | Langage | Statut |
 |--------|-------------|---------|--------|
 | `irixia-core` | Plugin principal du serveur (machines, shards, attaques...) | Java | 🟡 En dev |
-| `irixia-api` | API REST sécurisée (données joueurs, economy, leaderboard...) | Node.js / Express | 🟢 En dev |
+| `irixia-api` | API REST sécurisée (données joueurs, economy, leaderboard...) | Node.js / Express | 🟡 En dev |
 | `irixia-discord` | Bot Discord connecté à l'API et au plugin | Node.js / Discord.js v14 | 🟡 En dev |
-| `irixia-docs` | Documentation technique & gameplay complète | Markdown / Mermaid | ✅ Stable |
-| `irixia-assets` | UI, logos, ressources visuelles, banners | PNG / PSD / SVG | 🟢 Actif |
-
----
-
-## 🧠 Écosystème technique
-
-- **Serveur Minecraft :** PaperMC 1.21+ (Java + Bedrock via GeyserMC)
-- **Backend :** Node.js, Express, Prisma, PostgreSQL
-- **Bot Discord :** Discord.js v14 + OpenAI API (assistants & alerts)
-- **Panel Admin :** Auth sécurisée, gestion des tokens & logs
-- **CI/CD :** GitHub Actions (build, lint, deploy)
+| `irixia-docs` | Documentation technique & gameplay complète | Markdown / Mermaid | 🟡 En dev |
+| `irixia-assets` | UI, logos, ressources visuelles, banners | PNG / PSD / SVG | 🟡 En dev |
 
 ---
 
@@ -53,9 +43,9 @@ Ce dépôt GitHub regroupe **les outils techniques officiels** liés au projet I
 
 ## 📌 En savoir plus
 
-📚 [Documentation IRIXIA](https://docs.irixia.gg) *(à venir)*  
-🌐 [Site Officiel](https://irixia.gg) *(en cours)*  
-📦 [Serveur Discord](https://discord.gg/irixia) *(bientôt)*
+📚 [Documentation IRIXIA](https://docs.irixia.ch) *(en cours)*  
+🌐 [Site Officiel](https://irixia.ch) *(en cours)*  
+📦 [Serveur Discord](https://discord.gg/irixia) *(en cours)*
 
 ---
 
